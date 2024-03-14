@@ -6,10 +6,10 @@
 name: Blog
 
 # Name of the author
-author: Sowmya Rao
+author: Sow Rao (sowmya rao)
 
 # Short bio or description (displayed in the header)
-description: a regular blog
+description: a blog about my work and thoughts
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/profile.png
@@ -24,12 +24,12 @@ footer-links:
   email:  
   facebook:
   flickr:
-  github: https://github.com/sow451/
+  github:
   instagram:
-  linkedin: 
+  linkedin: https://in.linkedin.com/in/legaljargon
   pinterest:
   rss:  
-  twitter: sowmyarao_
+  twitter: https://twitter.com/sowmyarao_
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -55,7 +55,7 @@ enforce_ssl:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/sowmya.blog"
+baseurl: "https://sow451.github.io/sowmya.blog/sowmya.blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
